@@ -6,7 +6,7 @@ Buat program sederhada dengan input 2 buah bilangan, kemudian tentukan bilangan 
 
 ## Tugas 2
 Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
-
+![gambar](gambar/lab1.2.png)
 ## Tugas 3
 Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
 
